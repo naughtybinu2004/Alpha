@@ -25,7 +25,7 @@
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@BlackAmda/Queen-Amdi-QR-Code)
 
 ### Deploy OLD v3 Queen Amdi Bot
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/naughtybinu2004/QueenAmdi)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/naughtybinu2004/Alpha)
 </div>
 
 ----
